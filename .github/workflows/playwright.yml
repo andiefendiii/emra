@@ -4,8 +4,8 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
-  workflow_dispacth: # jalan manual
-  
+  workflow_dispatch: # jalan manual
+
 jobs:
   andi:
     timeout-minutes: 60
